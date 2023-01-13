@@ -10,7 +10,7 @@ Follow the [Build Guide](https://docs.humblebazooka.com/2022/03/03/how-to-build-
 * Printed shell files (see ["3D_FILES"](/3D_FILES/))
 * 6 x 6 x 5mm Tactile Button (x1) - [Amazon](https://a.co/d/hHaUuPS)
 * 8 x 8 x 5mm Soft Tactile Buttons (x2) - [Adafruit](https://www.adafruit.com/product/3101)
-* Button PCB board (see ["PCB_GERBERS"](/PCB_GERBERS/))
+* Button PCB board 1mm thickness (see ["PCB_GERBERS"](/PCB_GERBERS/))
 * FunnyPlaying "GBASP IPS LAMINATED DISPLAY LCD KITS" - [FunnyPlaying](https://funnyplaying.com/collections/product/products/gbasp-ips-laminated-display-lcd-kits)
 * Game Boy Pocket D-Pad, B, and A buttons
 * Game Boy Pocket Button Membranes
