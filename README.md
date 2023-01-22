@@ -5,6 +5,12 @@ This is a heavily Remixed version of the “Gameboy SP Slab” V1 originally des
 
 Follow the [Build Guide](https://docs.humblebazooka.com/2022/03/03/how-to-build-our-gba-slab-sp/)
 
+## Button PCB
+
+* You'll need all the files in the ["PCB_GERBERS"](/PCB_GERBERS/) folder
+* I recommend using JLCPCB for the button PCB 
+* The board should be 1mm thick and 2 layers
+
 ## What's Needed:
 
 * Printed shell files (see ["3D_FILES"](/3D_FILES/))
